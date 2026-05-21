@@ -1,0 +1,10 @@
+target/
+*.class
+.idea/
+.vscode/
+*.iml
+.DS_Store
+HELP.md
+.mvn/
+mvnw
+mvnw.cmd
